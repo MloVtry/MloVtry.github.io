@@ -1,8 +1,7 @@
-# Site settings
-title: MloVtry
+title: "MloVtry"
 email: 1150041224@qq.com 
-description: >  Í¬Ö¾£¬·üÌØ¼Ó£¡[¶Ö¶Ö¶Ö¶Ö¶Ö?]
-  ---µã»ğ»ú´ò²»×ÅµÄ¾Æ»¹ÊÇ²»ÒªÄÃÉÏÀ´ÁË£¬ÄÇ²»ºÃºÈ¡£££ÃèÊö
+description: >  åŒå¿—ï¼Œä¼ç‰¹åŠ ï¼[å¨å¨å¨å¨å¨?]
+  ---ç‚¹ç«æœºæ‰“ä¸ç€çš„é…’è¿˜æ˜¯ä¸è¦æ‹¿ä¸Šæ¥äº†ï¼Œé‚£ä¸å¥½å–ã€‚ï¼ƒæè¿°
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/JekyllTheme-ProjectGaia" # the subpath of your site, e.g. /blog/
@@ -15,11 +14,11 @@ facebook_username: 2333 in China
 twitter_username: like up 
 github_username: MloVtry
 address:
-  - line: ÄãÒÔÎª 
-  - line: ÎÒ»áĞ´ 
+  - line: ä½ ä»¥ä¸º 
+  - line: æˆ‘ä¼šå†™ 
   # Feel free to add more lines here 
-telephone: ß÷ß÷ß÷ 
-copyright: ß÷ß÷ß÷£¿ 
+telephone: å–µå–µå–µ 
+copyright: å–µå–µå–µï¼Ÿ 
 
 # API settings
 google_api_key:
