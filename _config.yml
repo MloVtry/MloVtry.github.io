@@ -10,7 +10,7 @@ url:                 https://MloVtry.github.io  #网站url
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             #不要填 
+baseurl:  //MloVtry.github.io  
 
 # A very short description of your page
 tagline:             月落天白，船动莲开  #类似副标题 
