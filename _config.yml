@@ -2,36 +2,36 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Hydejack
+title:               MloVtry     #标题 
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://qwtel.com
+url:                 https://MloVtry.github.io  #网站url 
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             /hydejack
+baseurl:             #不要填 
 
 # A very short description of your page
-tagline:             A pretentious two-column Jekyll theme.
+tagline:             月落天白，船动莲开  #类似副标题 
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Open `_config.yml` to edit this text.
+  同志，伏特加！[吨吨吨吨吨~]
+  ---点火机打不着的酒还是不要拿上来了，那不好喝。#描述 
 
 # This should be the same author as first entry in `_data/authors.yml`
-author:
+author: MloVtry 
   name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  email:             <1150041224@qq.com>
 
 # Fallback image and color
 image:               /hydejack/assets/img/nap.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
-font_heading:        "'Roboto Slab', Helvetica, Arial, sans-serif"
+font_heading:        "'Roboto Slab', Helvetica, Arial, sans-serif"  # 备注 
 
 # The text font. Expects a string that is a valid CSS font-family value.
 font:                "'Noto Sans', Helvetica, Arial, sans-serif"
@@ -41,23 +41,23 @@ font:                "'Noto Sans', Helvetica, Arial, sans-serif"
 google_fonts:        Roboto+Slab:700|Noto+Sans:400,400i,700,700i
 
 # If you do not use a Google Fonts, uncomment the line below
-# no_google_fonts:     true
+no_google_fonts:     true
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:    <UA-XXXXXXXX-X>
+# google_analytics:    <UA-XXXXXXXX-X>
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus_shortname:    <username>
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2017. All rights reserved.'
+copyright:           '&copy; 2017. To young To 森剖.'    #页脚 
 
 # Format of the permalinks
 permalink:           pretty
 
-# Pagination configuration (used by the `blog` layout)
-paginate:            5
+# Pagination configuration (used by the `blog` layout) 
+paginate:            5              #一页显示多少文章 
 paginate_path:       '/page-:num/'
 
 # If you are upgrading form a v5 verison of Hydejack, uncomment the two lines below,
