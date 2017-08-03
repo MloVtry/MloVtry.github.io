@@ -2,24 +2,24 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               MloVtry     #±êÌâ 
+title:               MloVtry     #æ ‡é¢˜ 
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://MloVtry.github.io  #ÍøÕ¾url 
+url:                 https://MloVtry.github.io  #ç½‘ç«™url 
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             #²»ÒªÌî 
+baseurl:             #ä¸è¦å¡« 
 
 # A very short description of your page
-tagline:             ÔÂÂäÌì°×£¬´¬¶¯Á«¿ª  #ÀàËÆ¸±±êÌâ 
+tagline:             æœˆè½å¤©ç™½ï¼Œèˆ¹åŠ¨è²å¼€  #ç±»ä¼¼å‰¯æ ‡é¢˜ 
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Í¬Ö¾£¬·üÌØ¼Ó£¡[¶Ö¶Ö¶Ö¶Ö¶Ö~]
-  ---µã»ğ»ú´ò²»×ÅµÄ¾Æ»¹ÊÇ²»ÒªÄÃÉÏÀ´ÁË£¬ÄÇ²»ºÃºÈ¡£#ÃèÊö 
+  åŒå¿—ï¼Œä¼ç‰¹åŠ ï¼[å¨å¨å¨å¨å¨~]
+  ---ç‚¹ç«æœºæ‰“ä¸ç€çš„é…’è¿˜æ˜¯ä¸è¦æ‹¿ä¸Šæ¥äº†ï¼Œé‚£ä¸å¥½å–ã€‚#æè¿° 
 
 # This should be the same author as first entry in `_data/authors.yml`
 author: MloVtry 
@@ -31,7 +31,7 @@ image:               /hydejack/assets/img/nap.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
-font_heading:        "'Roboto Slab', Helvetica, Arial, sans-serif"  # ±¸×¢ 
+font_heading:        "'Roboto Slab', Helvetica, Arial, sans-serif"  # å¤‡æ³¨ 
 
 # The text font. Expects a string that is a valid CSS font-family value.
 font:                "'Noto Sans', Helvetica, Arial, sans-serif"
@@ -41,7 +41,7 @@ font:                "'Noto Sans', Helvetica, Arial, sans-serif"
 google_fonts:        Roboto+Slab:700|Noto+Sans:400,400i,700,700i
 
 # If you do not use a Google Fonts, uncomment the line below
-no_google_fonts:     true
+# no_google_fonts:     true
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
@@ -51,13 +51,13 @@ no_google_fonts:     true
 disqus_shortname:    <username>
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2017. To young To É­ÆÊ.'    #Ò³½Å 
+copyright:           '&copy; 2017. To young To æ£®å‰–.'    #é¡µè„š 
 
 # Format of the permalinks
 permalink:           pretty
 
 # Pagination configuration (used by the `blog` layout) 
-paginate:            5              #Ò»Ò³ÏÔÊ¾¶àÉÙÎÄÕÂ 
+paginate:            5              #ä¸€é¡µæ˜¾ç¤ºå¤šå°‘æ–‡ç«  
 paginate_path:       '/page-:num/'
 
 # If you are upgrading form a v5 verison of Hydejack, uncomment the two lines below,
